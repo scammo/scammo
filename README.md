@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 Founder & Web Developer for hire at @54gradsoftware (Vue.js, Node.js)
-🔭 Founder @codingworld<br>Volunteering @chaostreff-flensburg
-👯 Always looking for interesting Projects - please say "Moin"- Especially when it comes to sustainability)
-💬 Ask me about accessibility, Vue.js Development and founder stuff
-📫 Follow me on Mastodon: https://hachyderm.io/@sabrinkmann or write me an E-Mail sbrinkmann@54gradsoftware.de
+🔭 Founder & Web Developer for hire at @54gradsoftware (Vue.js, Node.js) <br/>
+🔭 Founder @codingworld<br>Volunteering @chaostreff-flensburg <br/>
+👯 Always looking for interesting Projects - please say "Moin"- Especially when it comes to sustainability) <br/>
+💬 Ask me about accessibility, Vue.js Development and founder stuff <br/>
+📫 Follow me on Mastodon: https://hachyderm.io/@sabrinkmann or write me an E-Mail sbrinkmann@54gradsoftware.de <br/>
 
 
 ## 🌐 Socials:
