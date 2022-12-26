@@ -4,7 +4,7 @@
 Volunteering [@chaostreff-flensburg](https://github.com/chaostreff-flensburg) <br/>
 👯 Always looking for interesting Projects - please say "Moin"- (Especially when it comes to sustainability) <br/>
 💬 Ask me about accessibility, Vue.js Development and founder stuff <br/>
-📫 Follow me on Mastodon: https://hachyderm.io/@sabrinkmann or write me an E-Mail sbrinkmann@54gradsoftware.de <br/>
+📫 Follow me on Mastodon: <a rel="me" href="https://hachyderm.io/@sabrinkmann">achyderm.io/@sabrinkmann</a> or write me an E-Mail sbrinkmann@54gradsoftware.de <br/>
 
 
 ## 🌐 Socials:
