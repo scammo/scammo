@@ -9,7 +9,7 @@ Volunteering [@chaostreff-flensburg](https://github.com/chaostreff-flensburg) <b
 # Cool Mastodon Tools (from me):
 - [Importiere alle deine Toots des letzten Jahres und erstelle dein Mastodon Wraps!](https://github.com/54GradSoftware/mastodon-wraps)
 - [This is an automatically generated lists of Mastodon accounts belonging to public institutions and scientists. Updated daily. Data from Wikidat and Mastodon is used.](https://github.com/54GradSoftware/playground_mastodon_hochschul_liste)
-- [With super RE-toot you can easily automate re-toots/re-blogs from your Mastodon account.](https://github.com/chaostreff-flensburg/superretoot/pulls)
+- [With super RE-toot you can easily automate re-toots/re-blogs from your Mastodon account.](https://github.com/chaostreff-flensburg/superretoot)
 
 # Other Git servers I use
 - [https://codeberg.org/scammo](https://codeberg.org/scammo)
